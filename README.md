@@ -1,2 +1,2 @@
-# Sistema de Gestao de Bolsas
+# Sistema de Gestão de Bolsas
  Repositório versionado (Banco de Dados)
