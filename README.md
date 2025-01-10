@@ -1,2 +1,2 @@
 # Sistema de Gestão de Bolsas
- Repositório versionado.
+ Repositório de controle de versão.
